@@ -1,0 +1,8 @@
+numpy
+pandas
+pandasai
+pandasai_litellm
+dash
+langchain
+langchain-groq
+

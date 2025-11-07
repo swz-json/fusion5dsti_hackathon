@@ -1,0 +1,36 @@
+type,name,address,postal_Code,municipality,email,phone,coord_x,coord_y,postal_code
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Nice-Cessole,144 Boulevard de Cessole,6100,Nice,pminicecessole@departement06.fr,489045100,1042438,6300712,6100
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Lyautey,21 Avenue du Maréchal Lyautey,6000,Nice,pminicelyautey@departement06.fr,489043890,1045075,6299599,6000
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Roquebillière,30 Av. Philippe Corniglion (A la maison du département),6450,Roquebillière,pmilesvallees@departement06.fr,489043280,1045342,6333156,6450
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Nice-Centre,37 Avenue du Marechal Foch,6000,Nice,Unknown,489043700,1043883,6298590,6000
+CeGIDD,"Centre Gratuit d'Information, de Dépistage et de Diagnostic (CeGIDD) - Antibes","2067 Chemin de Saint-Claude (Proxima Bât B, 3e étage)",6600,Antibes,cegidd06@departement06.fr,489043569,1030537,6286550,6600
+Carrefour Santé Jeunes,Carrefour Santé Jeunes,2 Rue Raynardi,6000,Nice,csjnice@departement06.fr,493895744,1043853,6298249,6000
+CeGIDD,"Centre Gratuit d'Information, de Dépistage et de Diagnostic (CeGIDD) - Menton",4 Rue Victor Hugo (1er étage),6500,Menton,cegidd06@departement06.fr,489043045,1061780,6307586,6500
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Cannes,11 Boulevard d'Oxford,6400,Cannes,pmicannes-est@departement06.fr,489043470,1025070,6282237,6400
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Garbejaire,8 Place Carrée (Centre de Garbejaire),6560,Valbonne,Unknown,489043060,1026612,6288468,6560
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Beaulieu-sur-Mer,"1 Rue Charles II Comté Provence (Derrière le collège de Beaulieu, à côté du gymnase)",6310,Beaulieu-sur-Mer,Unknown,489043750,1048797,6298956,6310
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Castel Richelmi,"46 Bis Boulevard de Riquier (""Le Castel Richelmi"")",6300,Nice,pminiceport@departement06.fr,489043750,1045760,6298885,6300
+CeGIDD,"Centre Gratuit d'Information, de Dépistage et de Diagnostic (CeGIDD) - Nice",8 Avenue Baquis,6000,Nice,cegidd06@departement06.fr,489045560,1043502,6298257,6000
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Beausoleil,7 Avenue du Maréchal Foch,6240,Beausoleil,pmimenton@departement06.fr,4.89045E+22,1056311,6303825,6240
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Le Val Fleuri,53 Chemin du Val Fleuri,6800,Cagnes-sur-Mer,pmicagnessurmer@departement06.fr,489043180,1036356,6293952,6800
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Nice Arenas,27 Boulevard Paul Montel (Nice Leader Bâtiment Centaure),6200,Nice,pminicearenas@departement06.fr,489042360,1039378,6294923,6200
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Menton,4 Rue Victor Hugo (Maison du Département),6500,Menton,pmimenton@departement06.fr,489043040,1061780,6307586,6500
+CDS,Centre de Santé de Puget-Théniers,Quartier condamine (centre de santé departemental),6260,Puget-Théniers,cds-puget-theniers@departement06.fr,489045910,1012721,6324804,6260
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Puget-Théniers,Quartier condamine (centre de santé departemental),6260,Puget-Théniers,pmilesvallees@departement06.fr,489043280,1012721,6324804,6260
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Saint-Etienne-de-Tinée,1 Rue des Communes de France,6660,Saint-Étienne-de-Tinée,pmilesvallees@departement06.fr,489043280,1013317,6358485,6660
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Saint-Martin-du-Var,17 Avenue Pasteur (Immeuble Langevin),6670,Saint-Martin-du-Var,pmilesvallees@departement06.fr,489043280,1036909,6311519,6670
+Institut Mozart,Institut Mozart - Nice,17 Av. Auber,6000,Nice,institutmozart@departement06.fr,493828200,1043421,6298379,6000
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - L'Escarène,Le Castel (Plateau de la Gare - Quartier le Castel la petite loco),6440,L'Escarène,pmisaintandre@departement06.fr,489043985,1049921,6314375,6440
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - La Condamine,25 Avenue Virgile Barel (Résidence Les Mimosas - Bâtiment 25),6340,Drap,pmisaintandre@departement06.fr,489043985,1048659,6306401,6340
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - L'Ariane,1 Square Constantin de Châteauneuf (Le Petit Palais),6300,Nice,pminiceariane@departement06.fr,489045175,1046392,6302360,6300
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - La Forge,11 Boulevard du Général de Gaulle,6340,La Trinité,pmisaintandre@departement06.fr,489043985,1047155,6303069,6340
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - L'Adriana,15 Boulevard du 8 Mai 1945 (Immeuble l'Adriana),6730,Saint-André-de-la-Roche,pmisaintandre@departement06.fr,489043985,1045357,6302763,6730
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Le Marengo,13 Allée des Bugadières,6800,Cagnes-sur-Mer,Unknown,489043240,1034676,6294053,6800
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Le Promontoire,33 Rue des Selves,6510,Carros,Unknown,489043170,1037513,6306052,6510
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Les Baous,134 Avenue Colonel Meyere,6140,Vence,Unknown,489043235,1031526,6299942,6140
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Les Continents,Rue des Lits Militaires,6600,Antibes,pmiantibes@departement06.fr,489045190,1032606,6284144,6600
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Les Dryades,53 Boulevard de la République,6110,Le Cannet,pmilecannet@departement06.fr,489043340,1022731,6282529,6110
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Les Laurentins,52 Boulevard Louis Roux,6700,Saint-Laurent-du-Var,pmisaintlaurentduvar@departement06.fr,489043220,1037793,6294851,6700
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Les Nymphéas,390 Avenue Marcel Pagnol,6210,Mandelieu-la-Napoule,pmicannes-ouest@departement06.fr,489043490,1018615,6279874,6210
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Les Oliviers,1 Rue du Dr Senes (Centre Les Oliviers),6220,Vallauris,pmivallauris@departement06.fr,489043930,1027492,6283948,6220
+PMI,Centre de protection maternelle et infantile (PMI) et de planification - Grasse,12 Boulevard Carnot (Maison du département),6130,Grasse,pmigrasse@departement06.fr,489043650,1016281,6291846,6130

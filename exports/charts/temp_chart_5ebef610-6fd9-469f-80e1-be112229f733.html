@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-a527036ddb67e1c6322ee8c936d4e430"}, "mark": {"type": "line", "point": true}, "encoding": {"tooltip": [{"field": "Year", "format": "d", "type": "quantitative"}, {"field": "Population", "type": "quantitative"}], "x": {"axis": {"format": "d", "title": "Ann\u00e9e"}, "field": "Year", "type": "quantitative"}, "y": {"field": "Population", "title": "Population", "type": "quantitative"}}, "params": [{"name": "param_2", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "\u00c9volution de la population de Nice", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-a527036ddb67e1c6322ee8c936d4e430": [{"Year": 1876, "Population": 53397.0}, {"Year": 1881, "Population": 66279.0}, {"Year": 1886, "Population": 77478.0}, {"Year": 1891, "Population": 88273.0}, {"Year": 1896, "Population": 93760.0}, {"Year": 1901, "Population": 105109.0}, {"Year": 1906, "Population": 134232.0}, {"Year": 1911, "Population": 142940.0}, {"Year": 1921, "Population": 155839.0}, {"Year": 1926, "Population": 184441.0}, {"Year": 1931, "Population": 219549.0}, {"Year": 1936, "Population": 241916.0}, {"Year": 1954, "Population": 244360.0}, {"Year": 1962, "Population": 292958.0}, {"Year": 1968, "Population": 322442.0}, {"Year": 1975, "Population": 344481.0}, {"Year": 1982, "Population": 337085.0}, {"Year": 1990, "Population": 342439.0}, {"Year": 1999, "Population": 342738.0}, {"Year": 2006, "Population": 347060.0}, {"Year": 2007, "Population": 348721.0}, {"Year": 2008, "Population": 344875.0}, {"Year": 2009, "Population": 340735.0}, {"Year": 2010, "Population": 343304.0}, {"Year": 2011, "Population": 344064.0}, {"Year": 2012, "Population": 343629.0}, {"Year": 2013, "Population": 342295.0}, {"Year": 2014, "Population": 343895.0}, {"Year": 2015, "Population": 342522.0}, {"Year": 2016, "Population": 342637.0}, {"Year": 2017, "Population": 340017.0}, {"Year": 2018, "Population": 341032.0}, {"Year": 2019, "Population": 342669.0}, {"Year": 2020, "Population": 343477.0}, {"Year": 2021, "Population": 348085.0}, {"Year": 2022, "Population": 353701.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

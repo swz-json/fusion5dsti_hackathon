@@ -1,0 +1,229 @@
+
+:root {
+  --primary-color: #6C63FF;
+  --secondary-color: #5046e5;
+  --background-color: #f9f9f9;
+  --text-color: #f9f9f9;
+  --border-radius: 8px;
+  --box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+body {
+  background-color: #fafafa;
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+
+/* 🔹 Navbar */
+.navbar {
+position: sticky;
+  top: 0;
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 24px;
+  border-bottom: 1px solid #eee;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.brand {
+  color: var(--text-color);
+  font-weight: 600;
+  font-size: 18px;
+  border-radius: 15px;
+  background-color: var(--secondary-color);
+  padding: 5px 10px;
+
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-link {
+color: #000;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.btn-connexion {
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: var(--secondary-color);
+  padding: 5px 10px;
+}
+
+/* 🔹 Bloc principal */
+.main-card {
+  max-width: 700px;
+  margin: 2px auto;
+  background: var(--background-color);
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  padding: 24px;
+}
+
+.section-title {
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.input-question {
+  width: 669px;
+  padding: 10px 15px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+
+.suggestions-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.suggestion-btn {
+  background-color: #f8f9fa;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  font-size: 13px;
+  color: #333;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.suggestion-btn:hover {
+  background-color: #efefef;
+}
+
+.analyze-btn-container {
+  text-align: right;
+}
+
+.analyze-btn {
+  background-color: var(--secondary-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 20px;
+  cursor: pointer;
+  /* transition: rgb(19, 19, 90) 0.3s ease; */
+}
+
+    /* normal hover before click */
+.analyze-btn:hover {
+  background-color: rgb(23, 23, 126);
+}
+
+
+/* 🔹 Conversation */
+.conversation-section {
+  max-width: 700px;
+  margin: 0 auto 60px;
+  border: 1px solid #eee;
+  overflow-y: scroll;
+  display: none;
+  height: 400px;
+}
+
+.conversation-title {
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.user-block {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.message-time {
+  text-align: right;
+  color: #777;
+  font-size: 13px;
+}
+
+.user-message {
+  background-color: #f0f0f0;
+  padding: 10px 15px;
+  border-radius: 15px;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.assistant-block {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.assistant-message {
+  background: linear-gradient(135deg, var(--secondary-color), var(--primary-color),100%);
+  border-radius: 10px;
+  padding: 2px;
+  color: white;
+}
+
+.assistant-name {
+justify-content: center;
+align-items: center;
+color: #333;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.assistant-message-box {
+  background-color: white;
+  border-radius: 12px;
+  padding: 15px;
+  color: #333;
+  margin-top: 5px;
+}
+
+.assistant-message-box ul {
+  margin-top: 5px;
+}
+
+.star-icon {
+    margin-right: 6px;
+    color: gold;
+    font-size: 16px;
+}
+
+
+.actor-icon{
+    height: 25px;
+    width: 25px;
+    margin-right: 6px;
+    background-color: var(--background-color);
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.assistant-plot {
+  margin-top: 10px;
+  max-width: 100%;
+  border-radius: 8px;
+}

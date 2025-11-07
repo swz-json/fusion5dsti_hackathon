@@ -1,0 +1,290 @@
+type,usage,location,capacity,postal_code,supplier
+Arceau,Vélo,complexe Operto,10,6018,CASA
+Arceau,Vélo,Stade g. auvergne,10,6004,CD06
+Arceau,Vélo,Collège césar,20,6105,CD06
+Arceau,Vélo,Parking du ponteil,10,6004,CD06
+Arceau,Vélo,Parking fort carré,10,6004,CD06
+Arceau,Vélo,Collège césar,24,6105,CD06
+Arceau,Vélo,Parking nord jeux d'enfants la valmasque,10,6085,CD06
+Arceau,Vélo,Espace commercial du bayle,8,6007,CD06
+Arceau,Vélo,Groupe scolaire du bayle,8,6007,CD06
+Arceau,Vélo,St vallier de thiey (ot),6,6130,CD06
+Arceau,Vélo,Parking sud jeux d'enfants la valmasque,10,6085,CD06
+Arceau,Vélo,Parking pointe de l'aiguille,6,6138,CD06
+Arceau,Vélo,Rd2204 paking spar l escarene,4,6057,CD06
+Arceau,Vélo,Pk covoiturage campus stic,20,6018,CD06
+Arceau,Vélo,Place de la liberation tsl,4,6148,CD06
+Arceau,Vélo,Place de la libertation tsl,12,6148,CD06
+Arceau,Vélo,College camus mandelieu,34,6079,CD06
+Râtelier,Trottinette,College camus mandelieu,24,6079,CD06
+Arceau,Vélo,Gymnase college camus mandelieu,8,6079,CD06
+Râtelier,Trottinette,College vento menton,24,6083,CD06
+Arceau,Vélo,Collège la chenaie,20,6084,CD06
+Arceau,Vélo,Parc naturel départemental de roquevignon,4,6069,CD06
+Unknown,Vélo,College la chenaie mouans sartoux,0,6084,CD06
+Unknown,Vélo,College des jasmins grasse,0,6069,CD06
+Arceau,Vélo,Parking de fontmerle,8,6085,CD06
+Arceau,Vélo,Musée des merveilles,8,6163,CD06
+Arceau,Vélo,College des jasmins grasse,8,6069,CD06
+Unknown,Vélo,College rabelais l escarene,0,6057,CD06
+Arceau,Vélo,College rabelais l escarene,16,6057,CD06
+Râtelier,Trottinette,College rabelais l escarene,12,6057,CD06
+Arceau,Vélo,College wiesenthal st vallier,16,6130,CD06
+Râtelier,Trottinette,College wiesenthal st vallier,12,6130,CD06
+Arceau,Vélo,College canteperdrix grasse,20,6069,CD06
+Râtelier,Trottinette,College canteperdrix grasse,18,6069,CD06
+Râtelier,Trottinette,College les mimosas mandelieu,12,6079,CD06
+Râtelier,Trottinette,College roustan antibes,24,6004,CD06
+Râtelier,Trottinette,College rome de villeneuve vl,36,6161,CD06
+Arceau,Vélo,Castérino,4,6163,CD06
+Arceau,Vélo,Quai de la roya,4,6062,CD06
+Arceau,Vélo,Palais des congrès rue ardisson,10,6004,CD06
+Arceau,Vélo,Palais des congrès ch des sables,10,6004,CD06
+Arceau,Vélo,Mairie annexe plan de grasse,4,6069,CD06
+Arceau,Vélo,Mediatheque plan de grasse,6,6069,CD06
+Arceau,Vélo,St vallier de thiey (centre ville),10,6130,CD06
+Arceau,Vélo,Piscine altitude 500,12,6069,CD06
+Arceau,Vélo,Stade perdigon,12,6069,CD06
+Arceau,Vélo,Place des frères barin,4,6023,CD06
+Arceau,Vélo,Complexe sportif la paoute grasse,12,6069,CD06
+Arceau,Vélo,Parking entrée de ville,10,6071,CD06
+Arceau,Vélo,Cours honoré cresp,10,6069,CD06
+Arceau,Vélo,Rue du thouron,8,6069,CD06
+Arceau,Vélo,Bibliotheque,10,6108,CD06
+Arceau,Vélo,Parking stade,10,6108,CD06
+Arceau,Vélo,Allee des ecoles,8,6084,CD06
+Arceau,Vélo,Giratoire chemin des indes et chemin des gourettes,8,6084,CD06
+Râtelier,Trottinette,Collège la chenaie,30,6084,CD06
+Arceau,Vélo,Collège la chenaie,16,6084,CD06
+Arceau,Vélo,Place theodore de banville,6,6150,CD06
+Arceau,Vélo,Rd2564 - avenue albert 1er,10,6150,CD06
+Arceau,Vélo,Place de nice,4,6162,CD06
+Arceau,Vélo,Salle anthéa / stade nautique,20,6004,CD06
+Arceau,Vélo,Collège bertone,15,6004,CD06
+Arceau,Vélo,Maison des associations,10,6004,CD06
+Arceau,Vélo,Avenue albert 1er,10,6150,CD06
+Arceau,Vélo,Boulevard de la mourachonne,6,6090,CD06
+Arceau,Vélo,Salle des fêtes,6,6090,CD06
+Arceau,Vélo,Mairie,6,6090,CD06
+Arceau,Vélo,Chemin de l'ecluse,0,6090,CD06
+Abri verrouillé,Vélo,Parking de la gare cabbé,4,6104,CD06
+Arceau,Vélo,Place général de gaulle,6,6163,CD06
+Arceau,Vélo,Grotte beaume obscure,10,6130,CD06
+Arceau,Vélo,Capron (cannes),20,6029,CD06
+Arceau,Vélo,Collège les mimosas,32,6079,CD06
+Abri verrouillé,Vélo,Parking  de fort carré,4,6004,CD06
+Arceau,Vélo,Rd3 parking,10,6068,CD06
+Arceau,Vélo,Place du marché,10,6004,CD06
+Arceau,Vélo,Parc naturel départemental de vaugrenier (parking les groules),6,6161,CD06
+Arceau,Vélo,Parking croix rouge,12,6004,CD06
+Arceau,Vélo,Parc naturel départemental de vaugrenier (parking entrée est),10,6161,CD06
+Arceau,Vélo,Parc naturel départemental de vaugrenier (parking principal),8,6161,CD06
+Arceau,Vélo,Pré aux pecheurs,20,6004,CD06
+Arceau,Vélo,Collège vento,20,6083,CD06
+Unknown,Vélo,College camus,0,6079,CD06
+Arceau,Vélo,Collège vento,6,6083,CD06
+Râtelier,Trottinette,Collège césar,24,6105,CD06
+Arceau,Vélo,Place georges clémenceau,4,6132,CD06
+Râtelier,Trottinette,Collège bertone,54,6004,CD06
+Arceau,Vélo,Place du logis,6,6090,CD06
+Arceau,Vélo,Chemin de l'hôpital,4,6090,CD06
+Râtelier,Trottinette,Collège les mûriers,72,6029,CD06
+Arceau,Vélo,Collège les mûriers,50,6029,CD06
+Arceau,Vélo,Collège les mûriers,4,6029,CD06
+Arceau,Vélo,Collège les mûriers,6,6029,CD06
+Râtelier,Trottinette,Collège bechet,42,6004,CD06
+Arceau,Vélo,Collège bechet,4,6004,CD06
+Arceau,Vélo,Collège bechet,12,6004,CD06
+Râtelier,Trottinette,Collège les jasmins,36,6069,CD06
+Arceau,Vélo,Place du centenaire,8,6095,CD06
+Arceau,Vélo,Complexe sportif,8,6095,CD06
+Arceau,Vélo,Gymnase david douillet,4,6095,CD06
+Arceau,Vélo,Avenue winston churchill,10,6104,CD06
+Arceau,Vélo,Piscine les bains du cap,36,6104,CD06
+Arceau,Vélo,Centre d'affaires de valberg,8,6071,CD06
+Arceau,Vélo,Piscine,8,6094,CD06
+Arceau,Vélo,Route de la colle (golf club),4,6094,CD06
+Arceau,Vélo,Avenue de valberg (skatepark),4,6094,CD06
+Arceau,Vélo,Place du village,16,6094,CD06
+Arceau,Vélo,Parking pre des arts,6,6152,CD06
+Arceau,Vélo,Parking la poste,8,6152,CD06
+Arceau,Vélo,Rue d'opio,12,6152,CD06
+Arceau,Vélo,Place des anciens combattants,8,6152,CD06
+Arceau,Vélo,Parvis de la mairie,8,6152,CD06
+Arceau,Vélo,Carrefour des dolines,10,6152,CD06
+Arceau,Vélo,Place bermond,12,6152,CD06
+Arceau,Vélo,Mediatheque garbejaire,10,6152,CD06
+Arceau,Vélo,Place mejane,6,6152,CD06
+Arceau,Vélo,Place mejane,20,6152,CD06
+Arceau,Vélo,Ferme bermond,10,6152,CD06
+Arceau,Vélo,Ecole elementaire sartoux,10,6152,CD06
+Arceau,Vélo,Dojo garbejaire,10,6152,CD06
+Arceau,Vélo,Avenue de roumanille,10,6018,CD06
+Arceau,Vélo,Rue henri poincare,10,6018,CD06
+Arceau,Vélo,Parc des bouillides (beach volley),10,6152,CD06
+Arceau,Vélo,Parc des bouillides (terrain multisport),10,6152,CD06
+Abri verrouillé,Vélo,Parking parc de la valmasque rd 103,2,6152,CD06
+Arceau,Vélo,Base nautique,6,6155,CD06
+Arceau,Vélo,Plage du midi,8,6155,CD06
+Arceau,Vélo,Théâtre de la mer,8,6155,CD06
+Arceau,Vélo,Ot vieux port,6,6155,CD06
+Arceau,Vélo,Avenue baptiste cevoule,6,6155,CD06
+Abri verrouillé,Vélo,Parking covoiturage pont de l'aube vallauris,4,6155,CD06
+Arceau,Vélo,Pont du loup,10,6161,CD06
+Arceau,Vélo,Avenue de la mer,10,6161,CD06
+Arceau,Vélo,Marina baie des anges,10,6161,CD06
+Abri verrouillé,Vélo,Gare sncf,10,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Siège capg,4,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Aire de covoiturage de l'alambic,4,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Le paoute,2,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Piscine harjès,2,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Stade perdigon ,2,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Ecole st jean ,2,6108,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Gare sncf,10,6084,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Aire de covoiturage,4,6084,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Aire de covoiturage ,4,6095,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Espace daudet (piscine),2,6095,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Stationnement salle mistral ,4,6090,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Stationnement espace du thiey ,4,6130,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Campus,6,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Maison de la mobilité,6,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Hopital - site petit paris,6,6069,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Iscles,6,6108,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Parking du val du tignet,6,6140,CA_Pays_de_Grasse
+Abri verrouillé,Vélo,Salle batipoly,6,6118,CA_Pays_de_Grasse
+Unknown,Vélo,St Philippe Biot,18,6018,CASA
+Unknown,Vélo,PEA,18,6004,CASA
+Unknown,Vélo,Gare Golfe Juan,18,6155,CASA
+Unknown,Vélo,Gare SNCF Villeneuve,16,6161,CASA
+Unknown,Vélo,Gare Juan Les Pins,18,6004,CASA
+Unknown,Vélo,Gare juan,12,6004,CASA
+Unknown,Vélo,Gare Biot,18,6004,CASA
+Abri verrouillé,Vélo,saint philippe Roumanille,2,6018,CASA
+Abri verrouillé,Vélo,salle Azur Arena,2,6004,CASA
+Abri verrouillé,Vélo,Opio Fontneuve,2,6089,CASA
+Abri verrouillé,Vélo,Ferme Bermond - Mediatheque,2,6152,CASA
+Abri verrouillé,Vélo,station Saint Philippe,2,6018,CASA
+Abri verrouillé,Vélo,parking mobilite villeneuve,2,6161,CASA
+Abri verrouillé,Vélo,arret ecole saint Maymes,2,6004,CASA
+Abri verrouillé,Vélo,parking Croix Rouge,2,6004,CASA
+Abri verrouillé,Vélo,Les Lucioles,2,6152,CASA
+Abri verrouillé,Vélo,GRVSA,6,6152,CASA
+Abri verrouillé,Vélo,Vallis Bonna,2,6152,CASA
+Abri verrouillé,Vélo,parking Fort Carré,4,6004,CASA
+Abri verrouillé,Vélo,Unknown,2,6004,CASA
+Arceau,Vélo,services techniques Biot,2,6018,CASA
+Arceau,Vélo,Fontanette,8,6018,CASA
+Arceau,Vélo,Unknown,6,6018,CASA
+Arceau,Vélo,mairie Biot,4,6018,CASA
+Arceau,Vélo,batterie Graillon,8,6004,CASA
+Arceau,Vélo,Opio Fontneuve,4,6089,CASA
+Arceau,Vélo,Opio RD3,6,6089,CASA
+Arceau,Vélo,place méjane,6,6152,CASA
+Arceau,Vélo,place des anciens combattants,6,6152,CASA
+Arceau,Vélo,fighiere,6,6161,CASA
+Arceau,Vélo,pole auguste escoffier,20,6161,CASA
+Arceau,Vélo,mairie villeneuve,6,6161,CASA
+Arceau,Vélo,gare juan,6,6004,CASA
+Arceau,Vélo,Unknown,6,6161,CASA
+Arceau,Vélo,gendarmerie villeneuve,4,6161,CASA
+Arceau,Vélo,Garoupe,24,6004,CASA
+Arceau,Vélo,espace Croix Rouge,12,6004,CASA
+Arceau,Vélo,carrefour Dolines,10,6152,CASA
+Arceau,Vélo,parking Fort Carré,10,6004,CASA
+Arceau,Vélo,gare Biot (parking moto/velo),10,6004,CASA
+Arceau,Vélo,parc Opio,8,6089,CASA
+Arceau,Vélo,Nautipolis,14,6152,CASA
+Arceau,Vélo,parking mediatheque,6,6152,CASA
+Arceau,Vélo,hotel de ville (motos/velos),4,6112,CASA
+Arceau,Vélo,station Azur Arena,6,6004,CASA
+Arceau,Vélo,station saint philippe,6,6018,CASA
+Arceau,Vélo,station Les Cistes,6,6004,CASA
+Arceau,Vélo,Bouillides La Source,10,6152,CASA
+Arceau,Vélo,Entrée Exflora,8,6004,CASA
+Arceau,Vélo,musée Fernand leger,10,6018,CASA
+Arceau,Vélo,palais des congrès,10,6004,CASA
+Arceau,Vélo,Promenade Amiral de Grasse,10,6004,CASA
+Arceau,Vélo,Genets,16,6152,CASA
+Arceau,Vélo,Business Pole,10,6152,CASA
+Arceau,Vélo,square baudouin maupassant,8,6004,CASA
+Arceau,Vélo,freres garbero,6,6004,CASA
+Arceau,Vélo,INRA,30,6018,CASA
+Arceau,Vélo,avenue Roumanille,10,6018,CASA
+Arceau,Vélo,espace commercial st Philippe,10,6018,CASA
+Arceau,Vélo,pin Montard,8,6018,CASA
+Arceau,Vélo,COV - parc des Bouillides,10,6152,CASA
+Arceau,Vélo,mediathèque centre medical,10,6152,CASA
+Arceau,Vélo,place mejane,20,6152,CASA
+Arceau,Vélo,dojo valbonne,10,6152,CASA
+Arceau,Vélo,stade Gilbert Auvergne,10,6004,CASA
+Arceau,Vélo,Site Les Genêts,8,6152,CASA
+Arceau,Vélo,place bermond,12,6152,CASA
+Arceau,Vélo,pkg eco mobilité croix rouge,6,6004,CASA
+Arceau,Vélo,gare Villeneuve (motos/vélos),6,6161,CASA
+Arceau,Vélo,Totem marina,10,6161,CASA
+Arceau,Vélo,parking Ai Paure,10,6152,CASA
+Arceau,Vélo,parking Martyrs Résistance,6,6004,CASA
+Arceau,Vélo,parking Vignasse Nord,10,6152,CASA
+Arceau,Vélo,parking Vignasse sud,6,6152,CASA
+Arceau,Vélo,ferme Bermond,10,6152,CASA
+Arceau,Vélo,gare routière Sophia,6,6152,CASA
+Arceau,Vélo,Bachettes,4,6018,CASA
+Arceau,Vélo,ecole Haut Sartoux,10,6152,CASA
+Arceau,Vélo,PEA,20,6004,CASA
+Arceau,Vélo,Pre aux Pecheurs,20,6004,CASA
+Arceau,Vélo,maison des associations,10,6004,CASA
+Arceau,Vélo,Anthea - stade nautique,20,6004,CASA
+Arceau,Vélo,La Poste Antibes centre,10,6004,CASA
+Arceau,Vélo,parking Dulys,10,6004,CASA
+Arceau,Vélo,James Wyllie - Bougainvillées,10,6004,CASA
+Arceau,Vélo,James Wyllie - Max Maurey,10,6004,CASA
+Arceau,Vélo,General Vandenberg,18,6004,CASA
+Arceau,Vélo,Villeneuve secteur Géant,10,6161,CASA
+Arceau,Vélo,Embouchure du loup,10,6161,CASA
+Arceau,Vélo,Place Nationale - musée Peynet,12,6004,CASA
+Arceau,Vélo,Albert 1er,18,6004,CASA
+Arceau,Vélo,Exflora,8,6004,CASA
+Arceau,Vélo,Collège César,4,6105,CASA
+Arceau,Vélo,bas Sarrazine,6,6004,CASA
+Arceau,Vélo,Marche Antibes,10,6004,CASA
+Arceau,Vélo,parc ecomobilite villeneuve,12,6161,CASA
+Arceau,Vélo,square Beranger,8,6161,CASA
+Arceau,Vélo,entrée Saint Paul,4,6128,CASA
+Arceau,Vélo,centre de secours Ponteil,10,6004,CASA
+Arceau,Vélo,bastion,8,6004,CASA
+Arceau,Vélo,promenade Amiral de Grasse,6,6004,CASA
+Arceau,Vélo,Ecole St Georges,6,6161,CASA
+Arceau,Vélo,Unknown,6,6128,CASA
+Arceau,Vélo,Micocoulier,8,6004,CASA
+Arceau,Vélo,Rabiac,8,6004,CASA
+Arceau,Vélo,Place Sophie Lafitte,10,6152,CASA
+Arceau,Vélo,Conservatoire,8,6004,CASA
+Arceau,Vélo,Vaugrenier,6,6161,CASA
+Arceau,Vélo,Unknown,4,6161,CASA
+Arceau,Vélo,Unknown,16,6004,CASA
+Arceau,Vélo,Unknown,16,6161,CASA
+Arceau,Vélo,Unknown,6,6161,CASA
+Arceau,Vélo,Oreades,4,6152,CASA
+Unknown,Vélo,Unknown,6,6004,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6088,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6088,ADAVA Maxime Chesnel
+Unknown,Vélo,Parking des Fadès,12,6030,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Breil sur Roya,6,6023,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Cannes la Bocca,6,6029,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Fontan-Saorge,6,6062,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de l'Escarène,6,6057,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de la Brigue,6,6162,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de la Trinité - Victor,6,6149,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Mandelieu la Napoule,6,6079,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Peille,6,6091,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Sospel,6,6136,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de St Dalmas de Tende,6,6163,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Tende,6,6163,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare de Touët de l'Escarène,6,6142,ADAVA Maxime Chesnel
+Unknown,Vélo,Gare du Bosquet,6,6029,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6088,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6138,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6149,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6054,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6092,ADAVA Maxime Chesnel
+Unknown,Vélo,Unknown,6,6163,ADAVA Maxime Chesnel
