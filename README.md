@@ -1,5 +1,5 @@
 # Alpes-Maritimes Data Assistant 🗺️🤖  
-*Hackathon “Top Tech 2025” – CCI Nice Côte d’Azur*
+*Hackathon “Top Tech 2025” - CCI Nice Côte d’Azur*
 
 An interactive web app that lets users ask natural-language questions about the Alpes-Maritimes (06) and instantly get **indicators, charts and explanations**.
 
