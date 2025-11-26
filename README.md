@@ -1,4 +1,4 @@
-# Alpes-Maritimes Data Assistant 🗺️🤖  
+# Alpes-Maritimes Data Assistant
 *Hackathon “Top Tech 2025” - CCI Nice Côte d’Azur*
 
 An interactive web app that lets users ask natural-language questions about the Alpes-Maritimes (06) and instantly get **indicators, charts and explanations**.
@@ -28,18 +28,18 @@ The app is delivered as a **Dash web application** that anyone can run locally.
 
 ---
 
-## 🎯 Main Features
+## Main Features
 
-- 🧠 **Chatbot-style interface**: ask questions in natural French  
-- 📊 **Automatic visualizations**: line / bar charts generated from local CSV data  
-- 🏙️ **Commune-level indicators** (INSEE code, name, department 06)  
-- 🗂️ **Centralized data catalog**: population, land use, health/social (etc.)  
-- ⚠️ **“Unavailable data” handling**: clear message + alternative suggestions  
-- 🇫🇷 **French-only user interface** (labels, messages, explanations)  
+- **Chatbot-style interface**: ask questions in natural French  
+- **Automatic visualizations**: line / bar charts generated from local CSV data  
+- **Commune-level indicators** (INSEE code, name, department 06)  
+- **Centralized data catalog**: population, land use, health/social (etc.)  
+- **“Unavailable data” handling**: clear message + alternative suggestions  
+- **French-only user interface** (labels, messages, explanations)  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.x  
 - **Frontend / Backend:** [Plotly Dash](https://dash.plotly.com/)  
@@ -50,7 +50,7 @@ The app is delivered as a **Dash web application** that anyone can run locally.
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 All datasets are stored in the `data/` or `code/fusion5dsti/data/` folder.
 
@@ -65,7 +65,7 @@ Examples (adapt to your real filenames):
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 # 1. Clone the repository
