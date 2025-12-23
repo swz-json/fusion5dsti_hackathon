@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <img src="WhatsApp Image 2025-12-23 at 14 56 29](https://github.com/user-attachments/assets/5448e799-2985-4f43-81c9-80de7e8cc128)" alt="Team Fusion5 Hackathon" width="800" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/5448e799-2985-4f43-81c9-80de7e8cc128" alt="Team Fusion5 Hackathon" width="300" height="300" style="border-radius: 10px;"/>
   <p><i>Team Fusion5 en plein rush pendant les 24h du hackathon à l'Azur Arena Antibes.</i></p>
 </div>
 
