@@ -79,3 +79,8 @@ source .venv/bin/activate   # Linux / Mac
 
 # 3. Install dependencies
 pip install -r requirements.txt
+
+```
+
+
+<div align="center"> <sub>Développé par <b>Wassim Elmoufakkir, Abdellahi, Tuan Nam Pham, Sai Aditya Lakkum</b></sub> </div>
