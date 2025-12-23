@@ -1,86 +1,117 @@
-# Alpes-Maritimes Data Assistant
-*Hackathon “Top Tech 2025” - CCI Nice Côte d’Azur*
+<div align="center">
+  <br />
+  <img width="150" height="150" alt="CCI-FRANCE-logo-removebg-preview" src="https://github.com/user-attachments/assets/06211337-cc0c-4635-adb9-a6cc128dc4e7" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="150" height="150" alt="logo-dsti" src="https://github.com/user-attachments/assets/1939ca52-665c-4b0a-a65b-0aee9aa15563" />
+  <br /><br />
 
-An interactive web app that lets users ask natural-language questions about the Alpes-Maritimes (06) and instantly get **indicators, charts and explanations**.
 
-Example:  
-> « Donne le nombre d'habitants de Nice »  
-> « Top 5 communes du 06 par population »  
-> « Évolution de la population à Cannes entre 1968 et 2020 »
 
----
+  # 🥈 Alpes-Maritimes Data Assistant (AMDA)
+  ### Team Fusion5
 
-## 🚀 Project Overview
+  ![Hackathon Rank](https://img.shields.io/badge/Hackathon_Rank-2nd_Place-silver?style=for-the-badge&logo=trophy)
+  ![Event](https://img.shields.io/badge/Event-Top_Tech_2025-blue?style=for-the-badge)
+  ![Time Limit](https://img.shields.io/badge/Time_Limit-24h_Chrono-critical?style=for-the-badge)
+  
+  <br />
 
-This project was built in **24 hours** during the CCI Nice Côte d’Azur hackathon.
+  **Un assistant conversationnel intelligent qui transforme vos questions en langage naturel en analyses visuelles sur le territoire des Alpes-Maritimes.**
+  
+  *Développé en 24h chrono lors du Hackathon CCI Nice Côte d'Azur "Top Tech 2025".*
 
-Goal: create a prototype that:
-
-- Understands a question in French (commune, indicator, period…)
-- Translates it into a query on **local datasets (Alpes-Maritimes / INSEE)**
-- Returns:
-  - numerical indicators
-  - bar/line charts
-  - short explanations in French
-- Handles missing data with a **clear message + alternative suggestions**
-
-The app is delivered as a **Dash web application** that anyone can run locally.
+  <br />
+</div>
 
 ---
 
-## Main Features
+## 📸 L'Équipe en Action!
 
-- **Chatbot-style interface**: ask questions in natural French  
-- **Automatic visualizations**: line / bar charts generated from local CSV data  
-- **Commune-level indicators** (INSEE code, name, department 06)  
-- **Centralized data catalog**: population, land use, health/social (etc.)  
-- **“Unavailable data” handling**: clear message + alternative suggestions  
-- **French-only user interface** (labels, messages, explanations)  
 
----
-
-## Tech Stack
-
-- **Language:** Python 3.x  
-- **Frontend / Backend:** [Plotly Dash](https://dash.plotly.com/)  
-- **Data / Analytics:** `pandas`, `numpy`, `pandasai` (or LLM wrapper)  
-- **Visualization:** `plotly.express`  
-- **LLM Integration:** PandasAI / LiteLLM / Mistral via Hugging Face  
-- **Data Format:** CSV (INSEE, open data Alpes-Maritimes, etc.)
+<div align="center">
+  <img src="WhatsApp Image 2025-12-23 at 14 56 29](https://github.com/user-attachments/assets/5448e799-2985-4f43-81c9-80de7e8cc128)" alt="Team Fusion5 Hackathon" width="800" style="border-radius: 10px;"/>
+  <p><i>Team Fusion5 en plein rush pendant les 24h du hackathon à l'Azur Arena Antibes.</i></p>
+</div>
 
 ---
 
-## Datasets
+## 💡 Le Défi & La Solution
 
-All datasets are stored in the `data/` or `code/fusion5dsti/data/` folder.
+**Le Contexte :** Nous avions **24 heures** pour concevoir une solution innovante exploitant les données ouvertes (Open Data) locales.
 
-Examples (adapt to your real filenames):
+**Le Problème :** Les données publiques (INSEE, départements) sont riches mais difficiles d'accès pour les citoyens. Trouver une info simple comme *"L'évolution de la population à Cannes"* demande de fouiller dans des fichiers CSV complexes.
 
-- `department_06_population.csv` – Population by commune and year (INSEE code, commune name, year, population)  
-- `department_06_land_use.csv` – Land use categories by commune (urban, agricultural, natural…)  
-- `department_06_health_social.csv` – Health & social indicators (if available)  
-- `metadata_dataset_catalog.csv` – Internal catalog describing each dataset (columns, definitions, source URLs)  
+**Notre Solution - AMDA :** Nous avons créé **AMDA**, une interface IA générative connectée aux datasets locaux. Elle permet à n'importe qui de poser des questions en français et d'obtenir instantanément des graphiques et des résumés, sans écrire une seule ligne de code.
 
-> Each file is documented in a **data catalog** so the chatbot can explain indicators to the user.
+> **Exemples de questions supportées :**
+> * 🗣️ *« Donne le nombre d'habitants de Nice »*
+> * 🗣️ *« Top 5 des communes du 06 par densité de population »*
+> * 🗣️ *« Affiche l'évolution démographique d'Antibes entre 2000 et 2020 »*
 
 ---
 
-## Installation
+## ✨ Fonctionnalités Clés
+
+- **🤖 Interface Chatbot Naturelle :** Utilisation de LLMs pour comprendre l'intention de l'utilisateur en français.
+- **📊 Auto-Visualisation :** Génération dynamique du graphique le plus adapté (courbe, histogramme, camembert) selon la réponse.
+- **🗺️ Focus Local (06) :** Spécialisé sur les données des Alpes-Maritimes à l'échelle communale.
+- **🛡️ Gestion d'Erreur Intelligente :** Si la donnée manque, l'IA suggère des questions alternatives pertinentes au lieu de planter.
+- **📚 Catalogue de Données :** L'IA "lit" les métadonnées pour comprendre le sens des colonnes (ex: Code INSEE, Population, Superficie).
+
+---
+
+## 🏗️ Stack Technique
+
+Une architecture moderne combinant Python et IA Générative.
+
+| Catégorie | Outils |
+| :--- | :--- |
+| **Frontend / Backend** | ![Dash](https://img.shields.io/badge/Plotly_Dash-000000?style=flat-square&logo=plotly&logoColor=white) (Framework Python pour data apps) |
+| **Langage** | ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white) |
+| **Data & Analyse** | `pandas`, `numpy` |
+| **IA & LLM** | **PandasAI** (Text-to-Pandas), LLM via Hugging Face |
+| **Visualisation** | `plotly.express` |
+| **Sources** | CSV Locaux (INSEE, Open Data 06) |
+
+---
+
+## 🚀 Installation & Test
+
+Suivez ces étapes pour lancer le prototype localement.
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+# 1. Cloner le dépôt
+git clone [https://github.com/swz-json/fusion5dsti_hackathon.git](https://github.com/swz-json/fusion5dsti_hackathon.git)
+cd fusion5dsti_hackathon
 
-# 2. Create and activate a virtual environment (optional but recommended)
+# 2. Créer un environnement virtuel (recommandé)
 python -m venv .venv
-source .venv/bin/activate   # Linux / Mac
-# .venv\Scripts\activate    # Windows
+# Sur Windows :
+.venv\Scripts\activate
+# Sur Mac/Linux :
+source .venv/bin/activate
 
-# 3. Install dependencies
+# 3. Installer les dépendances
 pip install -r requirements.txt
 
+# 4. Lancer l'application
+python app.py
 ```
 
 
-<div align="center"> <sub>Développé par <b>Wassim Elmoufakkir, Abdellahi, Tuan Nam Pham, Sai Aditya Lakkum</b></sub> </div>
+## 👥 La Team Fusion5
+
+Étudiants du **DSTI (Data ScienceTech Institute)** et de l'**Université Côte d'Azur**.
+
+<div align="center">
+
+| **Wassim Elmoufakkir** | **Abdellahi** | **Tuan Nam Pham** | **Sai Aditya Lakkum** |
+| :---: | :---: | :---: | :---: |
+| [GitHub Profile](https://github.com/swz-json) | [GitHub Profile](#) | [GitHub Profile](#) | [GitHub Profile](#) |
+
+</div>
+
+---
+<div align="center">
+  <sub>Projet réalisé avec beaucoup de ☕ et d'IA en 24h pour le Hackathon Top Tech 2025.</sub>
+</div>
