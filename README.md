@@ -25,19 +25,6 @@
 
 ---
 
-## 📸 L'Équipe en Action!
-
-
-https://github.com/user-attachments/assets/208ea7aa-207d-4beb-b377-b16c2aab3ba6
-
-
-
-<div align="center">
-  
-  <p><i>Team Fusion5 en plein rush pendant les 24h du hackathon à l'Azur Arena Antibes.</i></p>
-</div>
-
----
 
 ## 💡 Le Défi & La Solution
 
