@@ -28,8 +28,12 @@
 ## 📸 L'Équipe en Action!
 
 
+https://github.com/user-attachments/assets/208ea7aa-207d-4beb-b377-b16c2aab3ba6
+
+
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5448e799-2985-4f43-81c9-80de7e8cc128" alt="Team Fusion5 Hackathon" width="300" height="300" style="border-radius: 10px;"/>
+  [<img src="https://github.com/user-attachments/assets/5448e799-2985-4f43-81c9-80de7e8cc128" alt="Team Fusion5 Hackathon" width="300" height="300" style="border-radius: 10px;"/>](https://github.com/user-attachments/assets/208ea7aa-207d-4beb-b377-b16c2aab3ba6)
   <p><i>Team Fusion5 en plein rush pendant les 24h du hackathon à l'Azur Arena Antibes.</i></p>
 </div>
 
