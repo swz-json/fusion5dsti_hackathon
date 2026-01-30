@@ -92,7 +92,7 @@ python app.py
 
 ## 👥 La Team Fusion5
 
-Étudiants du **DSTI (Data ScienceTech Institute)** et de l'**Université Côte d'Azur**.
+Équipe Fusion5 / Étudiants du DSTI (Data ScienceTech Institute) à Nice
 
 <div align="center">
 
