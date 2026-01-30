@@ -104,5 +104,5 @@ python app.py
 
 ---
 <div align="center">
-  <sub>Projet réalisé avec beaucoup de ☕ et d'IA en 24h pour le Hackathon Top Tech 2025.</sub>
+  <sub>Projet réalisé avec beaucoup de ☕ et d'IA en 24h pour le Hackathon Top Tech 2025 ( Azure Arena ) .</sub>
 </div>
