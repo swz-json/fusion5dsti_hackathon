@@ -101,7 +101,13 @@ python app.py
 | [GitHub Profile](https://github.com/swz-json) | [GitHub Profile](#) | [GitHub Profile](#) | [GitHub Profile](#) |
 
 </div>
+---
+<div align="center">
 
+![Image](https://github.com/user-attachments/assets/b4416eb2-bab6-4645-8ce1-f1e9bb39019e)
+
+  
+</div>
 ---
 <div align="center">
   <sub>Projet réalisé avec beaucoup de ☕ et d'IA en 24h pour le Hackathon Top Tech 2025 ( Azure Arena ) .</sub>
